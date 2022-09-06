@@ -62,7 +62,6 @@
   
   <a href = "mailto:bertimdutra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/humberto-dutra-60aa62242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- ![Snake animtation](https://github.com/humbertodutra)
- 
+
+ ![snake gif](https://github.com/humbertodutra/humbertodutra/blob/output/github-contribution-grid-snake.svg)
 </div>
