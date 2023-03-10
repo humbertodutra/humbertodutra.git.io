@@ -1,7 +1,7 @@
 ### Hello, I'm Humberto Dutra
 
 - 📜 Full Stack Web Development
-- 📩 Contact-me: <a href="https://linkedin.com/in/humberto-dutra-60aa62242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  || bertimdutra@gmail.com
+- 📩 Contact-me: <a href="https://www.linkedin.com/in/humberto-dvslima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  || humbertodutra.dev@gmail.com
 - ❤️ <a href="https://humbertodutra.github.io/">Check my portfolio</a>
 
 
